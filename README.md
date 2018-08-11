@@ -1,6 +1,7 @@
 # 学习 Rust
 
 - [Rust 官方文档](https://www.rust-lang.org/zh-CN/index.html)
+- [Rust Primer](https://rustcc.gitbooks.io/rustprimer/content/)
 - [dcode - Rust Programming Tutorial](https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)
 
 ## 安装 Rust
