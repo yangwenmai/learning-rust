@@ -5,4 +5,3 @@ $ rustc main.rs
 $ ./main
 Hello, Rust!
 ```
-

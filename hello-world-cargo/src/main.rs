@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, Rust use cargo!");
+    println!("Hello, Rust use cargo2!");
 }
