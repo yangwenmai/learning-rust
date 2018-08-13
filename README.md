@@ -25,6 +25,17 @@ Visual Studio Code 下载后直接安装，[https://code.visualstudio.com/downlo
 
 ## 学习资料
 
+### 文档资料
+
 - [Rust 官方文档](https://www.rust-lang.org/zh-CN/index.html)
-- [Rust Primer](https://rustcc.gitbooks.io/rustprimer/content/)
+- [给初学者的Rust中文教程](https://rustcc.gitbooks.io/rustprimer/content/)
+- [在实践中学习 Rust](https://rustwiki.org/rust-by-example/)
+- [Rust 程序设计语言（简体中文第二版）](https://kaisery.github.io/trpl-zh-cn/)
+- [Rust 高级教程](https://doc.rust-lang.org/nomicon/)
+- [Rust 语法](https://github.com/KaiserY/rust-reference-chinese/blob/master/rust-grammar-chinese.md)
+- [Rust 参考手册](https://github.com/KaiserY/rust-reference-chinese/blob/master/rust-reference-chinese.md)
+- [Rust 资料合集](https://github.com/ctjhoa/rust-learning)
+
+### 视频
+
 - [dcode - Rust Programming Tutorial](https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)
