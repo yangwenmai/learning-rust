@@ -39,3 +39,7 @@ Visual Studio Code 下载后直接安装，[https://code.visualstudio.com/downlo
 ### 视频
 
 - [dcode - Rust Programming Tutorial](https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)
+
+## Rust 夜读
+
+如果想加入 Rust 夜读的，请你搜索微信号 mai_yang ，然后备注你的姓名，公司，工作岗位职责。
