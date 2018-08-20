@@ -4,9 +4,9 @@
 
 ## 贡献流程
 
-### 第一步：Fork [https://github.com/developer-learning/night-reading-rust](https://github.com/developer-learning/night-reading-rust) 项目
+### 第一步：Fork [https://github.com/developer-learning/learning-rust](https://github.com/developer-learning/learning-rust) 项目
 
-1. 访问 [https://github.com/developer-learning/night-reading-rust](https://github.com/developer-learning/night-reading-rust)；
+1. 访问 [https://github.com/developer-learning/learning-rust](https://github.com/developer-learning/learning-rust)；
 2. 点击 Fork 按钮（顶部右侧），建立基于此的分支；
 
 ### 第二步：克隆分支到你本地
@@ -17,25 +17,25 @@ $ working_dir=/.../src/github.com/developer-learning
 $ user={your github profile name}
 $ mkdir -p $working_dir
 $ cd $working_dir
-$ git clone https://github.com/$user/night-reading-rust.git
-$ cd $working_dir/night-reading-rust
+$ git clone https://github.com/$user/learning-rust.git
+$ cd $working_dir/learning-rust
 $ git remote -v
-origin	https://github.com/$user/night-reading-rust.git (fetch)
-origin	https://github.com/$user/night-reading-rust.git (push)
+origin	https://github.com/$user/learning-rust.git (fetch)
+origin	https://github.com/$user/learning-rust.git (push)
 
-$ git remote add upstream https://github.com/developer-learning/night-reading-rust.git
+$ git remote add upstream https://github.com/developer-learning/learning-rust.git
 $ git remote -v
-origin	https://github.com/$user/night-reading-rust.git (fetch)
-origin	https://github.com/$user/night-reading-rust.git (push)
-upstream	https://github.com/developer-learning/night-reading-rust.git (fetch)
-upstream	https://github.com/developer-learning/night-reading-rust.git (push)
+origin	https://github.com/$user/learning-rust.git (fetch)
+origin	https://github.com/$user/learning-rust.git (push)
+upstream	https://github.com/developer-learning/learning-rust.git (fetch)
+upstream	https://github.com/developer-learning/learning-rust.git (push)
 
 # Never push to upstream master since you do not have write access.
 $ git remote set-url --push upstream no_push
 $ git remote -v
-origin	https://github.com/$user/night-reading-rust.git (fetch)
-origin	https://github.com/$user/night-reading-rust.git (push)
-upstream	https://github.com/developer-learning/night-reading-rust.git (fetch)
+origin	https://github.com/$user/learning-rust.git (fetch)
+origin	https://github.com/$user/learning-rust.git (push)
+upstream	https://github.com/developer-learning/learning-rust.git (fetch)
 upstream	no_push (push)
 ```
 
@@ -44,7 +44,7 @@ upstream	no_push (push)
 让你本地 master 分支保持最新：
 
 ```sh
-$ cd $working_dir/night-reading-rust
+$ cd $working_dir/learning-rust
 $ git fetch upstream
 $ git checkout master
 $ git rebase upstream/master
@@ -94,7 +94,7 @@ git push -f origin myfeature
 
 ### 第八步：创建一个 pull request
 
-1. 访问你 fork 的 [https://github.com/$user/night-reading-rust](https://github.com/$user/night-reading-rust) (替换 $user)；
+1. 访问你 fork 的 [https://github.com/$user/learning-rust](https://github.com/$user/learning-rust) (替换 $user)；
 2. 点击 myfeature 分支旁边的 Compare & pull request 按钮；
 
 ### 第九步：获取代码审核
