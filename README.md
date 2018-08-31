@@ -51,6 +51,7 @@
 
 - [官方文档](https://www.rust-lang.org/)
 - [Learning Rust](https://github.com/developer-learning/learning-rust)
+- [From Go to Rust](http://technosophos.com/)
 
 ## Rust 夜读的日常技术讨论总结
 
