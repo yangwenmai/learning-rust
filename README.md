@@ -1,4 +1,4 @@
-# Rust 夜读
+# Rust 学习之路
 
 [![Build Status](https://travis-ci.org/developer-learning/learning-rust.svg?branch=master)](https://travis-ci.org/developer-learning/learning-rust) [![GitHub stars](https://img.shields.io/github/stars/developer-learning/learning-rust.svg?label=Stars)](https://github.com/developer-learning/learning-rust) [![GitHub forks](https://img.shields.io/github/forks/developer-learning/learning-rust.svg?label=Fork)](https://github.com/developer-learning/learning-rust) [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors) [![Documentation](https://godoc.org/github.com/developer-learning/learning-rust?status.svg)](http://godoc.org/github.com/developer-learning/learning-rust) [![Coverage Status](https://coveralls.io/repos/github/developer-learning/learning-rust/badge.svg?branch=master)](https://coveralls.io/github/developer-learning/learning-rust?branch=master) [![GitHub issues](https://img.shields.io/github/issues/developer-learning/learning-rust.svg?label=Issue)](https://github.com/developer-learning/learning-rust/issues) [![license](https://img.shields.io/github/license/developer-learning/learning-rust.svg)](https://github.com/developer-learning/learning-rust/blob/master/LICENSE)
 
@@ -8,11 +8,11 @@
 
 [learning-rust Star History and Stats](https://seladb.github.io/StarTrack-js/?u=developer-learning&r=learning-rust)
 
-主要是对 Rust 源码阅读，以及 Rust 相关问题讨论的总结。
+主要是对 Rust 阅读、学习，以及 Rust 相关问题讨论的总结。
 
 >阅读计划：一起学习，一起总结，一起分享！
 
-如果想加入 Rust 夜读的，请你搜索微信号 mai_yang ，然后备注你的姓名，公司，工作岗位职责。
+如果想加入 Rust 学习之路的，请你搜索微信号 `mai_yang` ，然后备注你的姓名，公司，工作岗位职责。
 
 ## Rust 常见问题
 
@@ -28,7 +28,7 @@
 
 ### Rust 的应用场景是哪方面？
 
-- TiKV
+- TiKV 等
 
 ### Rust 有人用吗？
 
@@ -47,11 +47,110 @@
 
 其他：[打败 Python、JS、C# 成最受欢迎编程语言，是时候掌握 Rust 了吗？ - Jonathan Turner, Mozilla 工程师](https://mp.weixin.qq.com/s/713kCUprgIJxWwS_ObnFyg)
 
-### Rust 有哪些学习资料？
+----
 
-- [官方文档](https://www.rust-lang.org/)
-- [Learning Rust](https://github.com/developer-learning/learning-rust)
-- [From Go to Rust](http://technosophos.com/)
+## Rust 有哪些学习资料？
+
+>[记录国内的Rust书籍与文章](https://github.com/RustStudy/RustBooksChina)
+
+### Rust 学习资料
+
+| Rust 入门|
+|----|
+| [官方文档](https://www.rust-lang.org/) |
+| [《Rust By Example》中文](https://github.com/rust-lang-cn/rust-by-example-cn) |
+| [Learning Rust](https://github.com/developer-learning/learning-rust) |
+| [From Go to Rust](http://technosophos.com/) |
+| [使用 Rust 编写操作系统](https://github.com/luojia65/writing-an-os-in-rust) |
+| [Writing an OS in Rust (Second Edition) Philipp Oppermann's blog](http://os.phil-opp.com) |
+| [intermezzOS, (a little OS)](http://intermezzos.github.io) |
+| [《Rust 宏小册》中文](https://daseinphaos.github.io/tlborm-chinese/book/README.html) |
+
+>[更多 Rust 中文资料](https://rustlang-cn.github.io/)
+
+| Rust 书籍|
+|-----|
+| [官方Rust书-中文版](https://rustlang-cn.org/office/rust/) |
+| [rust 程序设计语言 中文版1️⃣](https://github.com/KaiserY/rust-book-chinese) |
+| [rust 程序设计语言 中文版2️⃣](https://www.gitbook.com/book/kaisery/trpl-zh-cn/details) |
+| [《Rust编程之道》（已出版 2019.01）](https://item.jd.com/12479415.html) |
+| [《深入浅出Rust》（已出版 2018.06）](https://book.douban.com/subject/30312231/) |
+| [《RustPrimer》](https://github.com/rustcc/RustPrimer) |
+
+| Rust 面试|
+|----|
+| [Rust 面试](https://github.com/developer-learnging/learning-rust/interview) |
+
+
+| Rust 其他|
+|----|
+| [Rust 阅读清单](https://github.com/developer-learning/learning-rust/rust-reading-list) |
+| [Rust 每日新闻](https://github.com/RustStudy/rust_daily_news) |
+
+
+### Rust 学习视频
+
+| 课程名称 | 简单介绍 |
+|----|----|
+| [Ashley Williams - intermezzOS: a teaching operating system](https://www.youtube.com/watch?v=WxbrhruIAa8) |
+| [Felix Klock - Subtyping in Rust and Clarke's Third Law](https://www.youtube.com/watch?v=fI4RG_uq-WU) |
+
+
+### 博客和专栏
+
+| 地址 (排名不分先后) |
+| ----- |
+| [Rust 源码分析 @ 知乎专栏](https://zhuanlan.zhihu.com/practical-program) |
+| [Rust编程 @ 知乎专栏](https://zhuanlan.zhihu.com/rust-lang) |
+
+
+### Rust 播客
+
+| 名称 | 简单介绍 |
+|----|----|
+| [Rusty Spike Podcast - News on all things Rust](https://rusty-spike.blubrry.net/) | Short, weekly episodes packed with information. |
+
+----
+
+## Rust 开发工具
+
+### 1. Vim
+
+[MacVim](https://github.com/macvim-dev/macvim) + [vim-rust](https://github.com/)
+
+### 2. 文本编辑器 + 插件
+
+[Visual Studio Code](https://code.visualstudio.com)、[Sublime Text 3](https://www.sublimetext.com/3)、[Atom](https://atom.io)
+
+VSCode 插件列表（欢迎大家补充）：
+
+|插件名称|插件描述|
+|----|----|
+|GitLens|非常方便的查看文件代码的 commit 信息（提交时间，提交人等）。|
+|Code Runner|针对非常多的语言而快速方便执行的小插件。|
+|filesize|在 VSCode 底部工具栏，非常方便的显示文件大小。|
+|Go|Go 语言插件。|
+|Terminal|命令行工具插件。|
+|Vim|Vim 插件|
+|VSCode Great Icons|VSCode 美化不同的文件。|
+|WakaTime|统计项目代码的时间。|
+|BetterComments|代码注释|
+
+### 3. IDE
+
+- IntelliJ idea + Rust Plugin
+
+----
+## Rust 社区
+
+| Rust 语言社区（排名不分先后）|特色|
+|----|----|
+
+
+## 微信公众号
+
+| 微信公众号 (排名不分先后) | 公众号 ID | 二维码|
+| ----- | ----- | ----- |
 
 ## Rust 夜读的日常技术讨论总结
 
