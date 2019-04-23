@@ -12,9 +12,11 @@
 
 >阅读计划：一起学习，一起总结，一起分享！
 
-如果想加入 Rust 学习之路的，请你搜索微信号 `mai_yang` ，然后备注你的姓名，公司，工作岗位职责。
+如果想加入 Rust 学习小组的，请你搜索微信号 `mai_yang` ，然后备注你的姓名，公司，工作岗位职责。
 
 ## Rust 常见问题
+
+可以查阅 [Github developer-learning/leanring-rust Issues](https://github.com/developer-learning/learning-rust/issues)
 
 ### Rust 比 Golang 还难吗？
 
@@ -49,12 +51,9 @@
 
 ----
 
-## Rust 有哪些学习资料？
-
->[记录国内的Rust书籍与文章](https://github.com/RustStudy/RustBooksChina)
-
 ### Rust 学习资料
 
+>[记录国内的Rust书籍与文章](https://github.com/RustStudy/RustBooksChina)
 | Rust 入门|
 |----|
 | [官方文档](https://www.rust-lang.org/) |
@@ -70,7 +69,7 @@
 
 | Rust 书籍|
 |-----|
-| [官方Rust书-中文版](https://rustlang-cn.org/office/rust/) |
+| [Rust 编程语言-官方中文版](https://rustlang-cn.org/office/rust/) |
 | [rust 程序设计语言 中文版1️⃣](https://github.com/KaiserY/rust-book-chinese) |
 | [rust 程序设计语言 中文版2️⃣](https://www.gitbook.com/book/kaisery/trpl-zh-cn/details) |
 | [《Rust编程之道》（已出版 2019.01）](https://item.jd.com/12479415.html) |
@@ -87,21 +86,19 @@
 | [Rust 阅读清单](https://github.com/developer-learning/learning-rust/rust-reading-list) |
 | [Rust 每日新闻](https://github.com/RustStudy/rust_daily_news) |
 
-
-### Rust 学习视频
-
-| 课程名称 | 简单介绍 |
-|----|----|
-| [Ashley Williams - intermezzOS: a teaching operating system](https://www.youtube.com/watch?v=WxbrhruIAa8) |
-| [Felix Klock - Subtyping in Rust and Clarke's Third Law](https://www.youtube.com/watch?v=fI4RG_uq-WU) |
-
-
 ### 博客和专栏
 
 | 地址 (排名不分先后) |
 | ----- |
 | [Rust 源码分析 @ 知乎专栏](https://zhuanlan.zhihu.com/practical-program) |
 | [Rust编程 @ 知乎专栏](https://zhuanlan.zhihu.com/rust-lang) |
+
+### Rust 视频
+
+| 课程名称 | 简单介绍 |
+|----|----|
+| [Ashley Williams - intermezzOS: a teaching operating system](https://www.youtube.com/watch?v=WxbrhruIAa8) |
+| [Felix Klock - Subtyping in Rust and Clarke's Third Law](https://www.youtube.com/watch?v=fI4RG_uq-WU) |
 
 
 ### Rust 播客
@@ -126,10 +123,10 @@ VSCode 插件列表（欢迎大家补充）：
 
 |插件名称|插件描述|
 |----|----|
+|Rust(rls)|Rust 语言插件|
 |GitLens|非常方便的查看文件代码的 commit 信息（提交时间，提交人等）。|
 |Code Runner|针对非常多的语言而快速方便执行的小插件。|
 |filesize|在 VSCode 底部工具栏，非常方便的显示文件大小。|
-|Go|Go 语言插件。|
 |Terminal|命令行工具插件。|
 |Vim|Vim 插件|
 |VSCode Great Icons|VSCode 美化不同的文件。|
@@ -145,6 +142,7 @@ VSCode 插件列表（欢迎大家补充）：
 
 | Rust 语言社区（排名不分先后）|特色|
 |----|----|
+|https://rust.cc/|Rust 每日新闻|
 
 
 ## 微信公众号
