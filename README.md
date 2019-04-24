@@ -19,7 +19,7 @@
 你还可以订阅 [reading-rust Telegram](https://t.me/reading_rust)
 >我会发一些我看过的文章或者其他值得分享的内容。
 
-## Rust 常见问题
+## **Rust 学习过程中的问题和小贴士（Github issues）**
 
 可以查阅 [Github developer-learning/leanring-rust Issues](https://github.com/developer-learning/learning-rust/issues)
 
