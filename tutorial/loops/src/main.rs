@@ -36,6 +36,7 @@ fn main() {
 }
 
 // 斐波那契数列: https://zh.wikipedia.org/wiki/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97
+// 斐波那契数列算法分析: https://www.cnblogs.com/CCBB/archive/2009/04/25/1443441.html
 fn fab(x: i32) -> i32 {
     if x < 2 {
         return x;
