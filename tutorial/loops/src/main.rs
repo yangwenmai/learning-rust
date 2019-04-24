@@ -35,6 +35,7 @@ fn main() {
     println!("{}", fab(8));
 }
 
+// 斐波那契数列: https://zh.wikipedia.org/wiki/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97
 fn fab(x: i32) -> i32 {
     if x < 2 {
         return x;
