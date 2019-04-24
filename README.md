@@ -14,6 +14,11 @@
 
 如果想加入 Rust 学习小组的，请你搜索微信号 `mai_yang` ，然后备注你的姓名，公司，工作岗位职责。
 
+你也可以直接加入 [learning-rust Telegram Channel](https://t.me/learning_rust)
+
+你还可以订阅 [reading-rust Telegram Channel](https://t.me/reading_rust)
+>我会发一些我看过的文章或者其他值得分享的内容。
+
 ## Rust 常见问题
 
 可以查阅 [Github developer-learning/leanring-rust Issues](https://github.com/developer-learning/learning-rust/issues)
