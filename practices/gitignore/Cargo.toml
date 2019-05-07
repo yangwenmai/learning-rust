@@ -4,4 +4,11 @@ version = "0.1.0"
 authors = ["yangwenmai <yangwen.yw@gmail.com>"]
 edition = "2018"
 
+[[bin]]
+name = "git-ignore"
+path = "src/main.rs"
+
 [dependencies]
+reqwest = "0.9.16"
+colored = "1.8.0"
+clap = "2.33.0"
