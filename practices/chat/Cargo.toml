@@ -1,0 +1,10 @@
+[package]
+name = "chat"
+version = "0.1.0"
+authors = ["yangwenmai <yangwen.yw@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+sonr = {git = "https://github.com/hagsteel/sonr"}
+sonr_extras = {git = "https://github.com/hagsteel/sonr-extras"}
+bytes = "0.4.12"
