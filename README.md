@@ -23,6 +23,8 @@
 
 可以查阅 [Github developer-learning/leanring-rust Issues](https://github.com/developer-learning/learning-rust/issues)
 
+- [Rust 和 Go 在图像处理上的性能之争](https://github.com/developer-learning/learning-rust/issues/23) - 代码 --> [Rust Vs Go image decode](https://github.com/developer-learning/learning-rust/tree/master/practices/image)
+
 ### Rust 比 Golang 还难吗？
 
 - Golang 入手简单，写完后你都不知道对错，Rust 入手难，写完后 90% 都是对的。
@@ -59,6 +61,7 @@
 ### Rust 学习资料
 
 >[记录国内的Rust书籍与文章](https://github.com/RustStudy/RustBooksChina)
+
 | Rust 入门|
 |----|
 | [官方文档](https://www.rust-lang.org/) |
