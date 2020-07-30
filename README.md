@@ -72,6 +72,8 @@
 | [Writing an OS in Rust (Second Edition) Philipp Oppermann's blog](http://os.phil-opp.com) |
 | [intermezzOS, (a little OS)](http://intermezzos.github.io) |
 | [《Rust 宏小册》中文](https://daseinphaos.github.io/tlborm-chinese/book/README.html) |
+| [通过大量的链表学习Rust](https://github.com/WeAthFoLD/rust-too-many-lists-zhcn) |
+| [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) |
 
 >[更多 Rust 中文资料](https://rustlang-cn.github.io/)
 
@@ -108,12 +110,18 @@
 | [Ashley Williams - intermezzOS: a teaching operating system](https://www.youtube.com/watch?v=WxbrhruIAa8) |
 | [Felix Klock - Subtyping in Rust and Clarke's Third Law](https://www.youtube.com/watch?v=fI4RG_uq-WU) |
 
-
 ### Rust 播客
 
 | 名称 | 简单介绍 |
 |----|----|
 | [Rusty Spike Podcast - News on all things Rust](https://rusty-spike.blubrry.net/) | Short, weekly episodes packed with information. |
+
+### Rust 博客
+
+| 名称 | 简单介绍 |
+|----|----|
+| [《Too Many Lists》:一本学习Rust的好书
+](https://zhuanlan.zhihu.com/p/83776098) | 这本书的写作风格非常的有特色, 非常适合初学者。 |
 
 ----
 
@@ -150,7 +158,7 @@ VSCode 插件列表（欢迎大家补充）：
 
 | Rust 语言社区（排名不分先后）|特色|
 |----|----|
-|https://rust.cc/|Rust 每日新闻|
+|https://rust.cc/ |Rust 每日新闻|
 
 
 ## 微信公众号
