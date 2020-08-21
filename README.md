@@ -102,6 +102,7 @@
 | ----- |
 | [Rust 源码分析 @ 知乎专栏](https://zhuanlan.zhihu.com/practical-program) |
 | [Rust编程 @ 知乎专栏](https://zhuanlan.zhihu.com/rust-lang) |
+| [夜雨秋灯录【使用 Rust 写 Parser】 @ 知乎专栏](https://zhuanlan.zhihu.com/c_208092758) |
 
 ### Rust 视频
 
