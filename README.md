@@ -1,12 +1,12 @@
 # Rust 学习之路
 
-[![Build Status](https://travis-ci.org/developer-learning/learning-rust.svg?branch=master)](https://travis-ci.org/developer-learning/learning-rust) [![GitHub stars](https://img.shields.io/github/stars/developer-learning/learning-rust.svg?label=Stars)](https://github.com/developer-learning/learning-rust) [![GitHub forks](https://img.shields.io/github/forks/developer-learning/learning-rust.svg?label=Fork)](https://github.com/developer-learning/learning-rust) [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors) [![Documentation](https://godoc.org/github.com/developer-learning/learning-rust?status.svg)](http://godoc.org/github.com/developer-learning/learning-rust) [![Coverage Status](https://coveralls.io/repos/github/developer-learning/learning-rust/badge.svg?branch=master)](https://coveralls.io/github/developer-learning/learning-rust?branch=master) [![GitHub issues](https://img.shields.io/github/issues/developer-learning/learning-rust.svg?label=Issue)](https://github.com/developer-learning/learning-rust/issues) [![license](https://img.shields.io/github/license/developer-learning/learning-rust.svg)](https://github.com/developer-learning/learning-rust/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/yangwenmai/learning-rust.svg?branch=master)](https://travis-ci.org/yangwenmai/learning-rust) [![GitHub stars](https://img.shields.io/github/stars/yangwenmai/learning-rust.svg?label=Stars)](https://github.com/yangwenmai/learning-rust) [![GitHub forks](https://img.shields.io/github/forks/yangwenmai/learning-rust.svg?label=Fork)](https://github.com/yangwenmai/learning-rust) [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors) [![Documentation](https://godoc.org/github.com/yangwenmai/learning-rust?status.svg)](http://godoc.org/github.com/yangwenmai/learning-rust) [![Coverage Status](https://coveralls.io/repos/github/yangwenmai/learning-rust/badge.svg?branch=master)](https://coveralls.io/github/yangwenmai/learning-rust?branch=master) [![GitHub issues](https://img.shields.io/github/issues/yangwenmai/learning-rust.svg?label=Issue)](https://github.com/yangwenmai/learning-rust/issues) [![license](https://img.shields.io/github/license/yangwenmai/learning-rust.svg)](https://github.com/yangwenmai/learning-rust/blob/master/LICENSE)
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starcharts.herokuapp.com/developer-learning/learning-rust.svg)](https://starcharts.herokuapp.com/developer-learning/learning-rust)
+[![Stargazers over time](https://starcharts.herokuapp.com/yangwenmai/learning-rust.svg)](https://starcharts.herokuapp.com/yangwenmai/learning-rust)
 
-[learning-rust Star History and Stats](https://seladb.github.io/StarTrack-js/?u=developer-learning&r=learning-rust)
+[learning-rust Star History and Stats](https://seladb.github.io/StarTrack-js/?u=yangwenmai&r=learning-rust)
 
 主要是对 Rust 阅读、学习，以及 Rust 相关问题讨论的总结。
 
@@ -21,9 +21,9 @@
 
 ## **Rust 学习过程中的问题和小贴士（Github issues）**
 
-可以查阅 [Github developer-learning/leanring-rust Issues](https://github.com/developer-learning/learning-rust/issues)
+可以查阅 [Github yangwenmai/leanring-rust Issues](https://github.com/yangwenmai/learning-rust/issues)
 
-- [Rust 和 Go 在图像处理上的性能之争](https://github.com/developer-learning/learning-rust/issues/23) - 代码 --> [Rust Vs Go image decode](https://github.com/developer-learning/learning-rust/tree/master/practices/image)
+- [Rust 和 Go 在图像处理上的性能之争](https://github.com/yangwenmai/learning-rust/issues/23) - 代码 --> [Rust Vs Go image decode](https://github.com/yangwenmai/learning-rust/tree/master/practices/image)
 
 ### Rust 比 Golang 还难吗？
 
@@ -66,7 +66,7 @@
 |----|
 | [官方文档](https://www.rust-lang.org/) |
 | [《Rust By Example》中文](https://github.com/rust-lang-cn/rust-by-example-cn) |
-| [Learning Rust](https://github.com/developer-learning/learning-rust) |
+| [Learning Rust](https://github.com/yangwenmai/learning-rust) |
 | [From Go to Rust](http://technosophos.com/) |
 | [使用 Rust 编写操作系统](https://github.com/luojia65/writing-an-os-in-rust) |
 | [Writing an OS in Rust (Second Edition) Philipp Oppermann's blog](http://os.phil-opp.com) |
@@ -80,20 +80,21 @@
 | Rust 书籍|
 |-----|
 | [Rust 编程语言-官方中文版](https://rustlang-cn.org/office/rust/) |
-| [rust 程序设计语言 中文版1️⃣](https://github.com/KaiserY/rust-book-chinese) |
-| [rust 程序设计语言 中文版2️⃣](https://www.gitbook.com/book/kaisery/trpl-zh-cn/details) |
-| [《Rust编程之道》（已出版 2019.01）](https://item.jd.com/12479415.html) |
-| [《深入浅出Rust》（已出版 2018.06）](https://book.douban.com/subject/30312231/) |
+| [Rust 程序设计语言 中文版1️⃣](https://github.com/KaiserY/rust-book-chinese) |
+| [Rust 程序设计语言 中文版2️⃣](https://www.gitbook.com/book/kaisery/trpl-zh-cn/details) |
+| [《Rust 编程之道》（已出版 2019.01）](https://item.jd.com/12479415.html) |
+| [《深入浅出 Rust》（已出版 2018.06）](https://book.douban.com/subject/30312231/) |
 | [《RustPrimer》](https://github.com/rustcc/RustPrimer) |
+| [《Too Many Lists》:一本学习 Rust 的好书](https://zhuanlan.zhihu.com/p/83776098) 这本书的写作风格非常的有特色, 非常适合初学者。 |
 
 | Rust 面试|
 |----|
-| [Rust 面试](https://github.com/developer-learnging/learning-rust/interview) |
+| [Rust 面试](https://github.com/yangwenmai/learning-rust/interview) |
 
 
 | Rust 其他|
 |----|
-| [Rust 阅读清单](https://github.com/developer-learning/learning-rust/rust-reading-list) |
+| [Rust 阅读清单](https://github.com/yangwenmai/learning-rust/rust-reading-list) |
 | [Rust 每日新闻](https://github.com/RustStudy/rust_daily_news) |
 
 ### 博客和专栏
@@ -121,8 +122,7 @@
 
 | 名称 | 简单介绍 |
 |----|----|
-| [《Too Many Lists》:一本学习Rust的好书
-](https://zhuanlan.zhihu.com/p/83776098) | 这本书的写作风格非常的有特色, 非常适合初学者。 |
+
 
 ----
 
@@ -179,7 +179,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars3.githubusercontent.com/u/1710912?v=4" width="100px;"/><br /><sub><b>maiyang</b></sub>](https://maiyang.me)<br />[💻](https://github.com/developer-learning/learning-rust/commits?author=yangwenmai "Code") [📝](#blog-yangwenmai "Blogposts") |
+| [<img src="https://avatars3.githubusercontent.com/u/1710912?v=4" width="100px;"/><br /><sub><b>maiyang</b></sub>](https://maiyang.me)<br />[💻](https://github.com/yangwenmai/learning-rust/commits?author=yangwenmai "Code") [📝](#blog-yangwenmai "Blogposts") |
 | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
