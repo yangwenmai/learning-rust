@@ -86,6 +86,7 @@
 | [《深入浅出 Rust》（已出版 2018.06）](https://book.douban.com/subject/30312231/) |
 | [《RustPrimer》](https://github.com/rustcc/RustPrimer) |
 | [《Too Many Lists》:一本学习 Rust 的好书](https://zhuanlan.zhihu.com/p/83776098) 这本书的写作风格非常的有特色, 非常适合初学者。 |
+| [List of Rust Books](https://github.com/sger/RustBooks) Rust 英文图书 |
 
 | Rust 面试|
 |----|
@@ -96,6 +97,7 @@
 |----|
 | [Rust 阅读清单](https://github.com/yangwenmai/learning-rust/rust-reading-list) |
 | [Rust 每日新闻](https://github.com/RustStudy/rust_daily_news) |
+| [A bunch of links to blog posts, articles, videos, etc for learning Rust](https://github.com/ctjhoa/rust-learning) |
 
 ### 博客和专栏
 
@@ -111,6 +113,7 @@
 |----|----|
 | [Ashley Williams - intermezzOS: a teaching operating system](https://www.youtube.com/watch?v=WxbrhruIAa8) |
 | [Felix Klock - Subtyping in Rust and Clarke's Third Law](https://www.youtube.com/watch?v=fI4RG_uq-WU) |
+| [RustConf 2020 Summary](https://github.com/poteto/rustconf-2020) |
 
 ### Rust 播客
 
@@ -122,7 +125,8 @@
 
 | 名称 | 简单介绍 |
 |----|----|
-
+| [A learning journal](https://www.lpalmieri.com/) | Zero To Production 系列教程 |
+| [24 days of Rust](https://siciarz.net/) |
 
 ----
 
@@ -159,7 +163,7 @@ VSCode 插件列表（欢迎大家补充）：
 
 | Rust 语言社区（排名不分先后）|特色|
 |----|----|
-|https://rust.cc/ |Rust 每日新闻|
+| https://rust.cc/ | Rust 每日新闻 |
 
 
 ## 微信公众号
