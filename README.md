@@ -87,6 +87,7 @@
 | [《RustPrimer》](https://github.com/rustcc/RustPrimer) |
 | [《Too Many Lists》:一本学习 Rust 的好书](https://zhuanlan.zhihu.com/p/83776098) 这本书的写作风格非常的有特色, 非常适合初学者。 |
 | [List of Rust Books](https://github.com/sger/RustBooks) Rust 英文图书 |
+| [Rust explained using easy English](https://github.com/Dhghomon/easy_rust) |
 
 | Rust 面试|
 |----|
