@@ -14,10 +14,7 @@
 
 如果想加入 Rust 学习小组的，请你搜索微信号 `mai_yang` ，然后备注你的姓名，公司，工作岗位职责。
 
-你也可以直接加入 [learning-rust Telegram](https://t.me/learning_rust) 或者 [learning-rust Slack](https://join.slack.com/t/learning-rust/shared_invite/enQtNjA1Mjg5MzE3MjM0LTQ4NmEyYmIwZDc1NmMzZTI0ZDZhZDg3MTcwYjc3NDg2Y2Q5NzJkNmVjYzQ2MDEzMWQ3MjY2ZjZlZGYxOTlkODI)
-
-你还可以订阅 [reading-rust Telegram](https://t.me/reading_rust)
->我会发一些我看过的文章或者其他值得分享的内容。
+你也可以直接加入 [learning-rust Slack](https://join.slack.com/t/learning-rust/shared_invite/enQtNjA1Mjg5MzE3MjM0LTQ4NmEyYmIwZDc1NmMzZTI0ZDZhZDg3MTcwYjc3NDg2Y2Q5NzJkNmVjYzQ2MDEzMWQ3MjY2ZjZlZGYxOTlkODI)
 
 ## **Rust 学习过程中的问题和小贴士（Github issues）**
 
