@@ -86,6 +86,7 @@
 | [List of Rust Books](https://github.com/sger/RustBooks) Rust 英文图书 |
 | [Rust explained using easy English](https://github.com/Dhghomon/easy_rust) |
 | [Rust 性能优化](https://poly000.github.io/perf-book-zh/build-configuration_zh.html) |
+| [zero2prod by Luca Palmieri](https://www.zero2prod.com/) |
 
 | Rust 面试|
 |----|
