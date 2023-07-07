@@ -87,6 +87,7 @@
 | [Rust explained using easy English](https://github.com/Dhghomon/easy_rust) |
 | [Rust 性能优化](https://poly000.github.io/perf-book-zh/build-configuration_zh.html) |
 | [zero2prod by Luca Palmieri](https://www.zero2prod.com/) |
+| [Comprehensive Rust](https://google.github.io/comprehensive-rust/) This is a three day Rust course developed by the Android team. |
 
 | Rust 面试|
 |----|
